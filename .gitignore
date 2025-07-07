@@ -1,0 +1,6 @@
+data/**
+models/**
+
+.claude
+.ruff_cache 
+
