@@ -1,0 +1,2 @@
+# Li 2025 Biomaterials
+- Li L, Menendez-Lustri DM, Hartzler A, Pogharian A, Zaorski B, Chen A, Palen J, Traylor B, Quill E, Pawlowski CL, Bruckman MA, Gupta AS, Capadona JR, Shoffstall AJ. Systemically administered platelet-inspired nanoparticles to reduce inflammation surrounding intracortical microelectrodes. Biomaterials. 2025 Jun;317:123082. doi: 10.1016/j.biomaterials.2025.123082. Epub 2025 Jan 2. PMID: 39787896.
